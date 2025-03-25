@@ -4,7 +4,6 @@
 I am a full-stack developer and Cybersecurity student.
 <br><br>
 
-⚡ Fun fact, Code is like humor. When you have to explain it, it’s bad  
 📫 Feel free to email me about anything business related. <br><br>Email: hello@davidmartins.cloud<br><br>
 
 
