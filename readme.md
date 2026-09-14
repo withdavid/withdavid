@@ -12,8 +12,6 @@ I am a full-stack developer and Cybersecurity student.
 
 Email: <a href="mailto:hello@davidmartins.cloud">hello@davidmartins.cloud</a>
 
-<br><br>
-
 <p align="left">
   <a href="https://github.com/withdavid">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
