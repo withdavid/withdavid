@@ -1,7 +1,7 @@
 ### Hi there, I'm David 👋
 
 <img align="right"
-     width="560"
+     width="575"
      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=withdavid&theme=github_dark"
      alt="David's GitHub activity">
 
