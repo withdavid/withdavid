@@ -1,5 +1,10 @@
 ### Hi there, I'm David 👋
 
+<img align="right"
+     width="460"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=withdavid&theme=github_dark"
+     alt="David's GitHub activity">
+
 I am a full-stack developer and Cybersecurity student.
 
 Feel free to email me about anything business related.
@@ -18,7 +23,4 @@ Email: <a href="mailto:hello@davidmartins.cloud">hello@davidmartins.cloud</a>
   </a>
 </p>
 
-<img align="right"
-     width="460"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=withdavid&theme=github_dark"
-     alt="David's GitHub activity">
+<br clear="both">
