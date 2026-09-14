@@ -1,6 +1,6 @@
 ### Hi there, I'm David 👋
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=withdavid&theme=github&animation=draw">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=withdavid&theme=github_dark&animation=draw">
 
 I am a full-stack developer and Cybersecurity student.
 
